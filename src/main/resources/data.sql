@@ -12,6 +12,9 @@ values (2, 'Bucuresti', '1234567891232', 'aaa2@a.com', 'm2', '0770 0000002', 'pr
 insert into users (id, address, cnp, email, family_doctor, phone_number, profession, username)
 values (3, 'Cluj Napoca', '1234567891233', 'aaa3@a.com', 'm3', '0770 0000003', 'prof3', 'user3');
 
+insert into users (id, address, cnp, email, family_doctor, phone_number, profession, username)
+values (4, 'Cluj Napoca', '1284567891234', 'aaa4@a.com', 'm1', '0770 0000004', 'prof1', 'user4');
+
 -- populating the table vaccines
 insert into vaccines(
     id, min_age, priority1amount_initial, priority1amount_remaining, priority2amount_initial, priority2amount_remaining, priority3amount_initial, priority3amount_remaining, producer, rappel, storage_temperature)
