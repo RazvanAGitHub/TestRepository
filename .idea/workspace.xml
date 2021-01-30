@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eef3b272-5022-46cd-ba63-184fa4ee605a" name="Default Changelist" comment="new test" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n97Jl6T35QouyJ0n0Vw8shdGez" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AplicSimona/MyVaccineApp/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="VaccineAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="VaccineApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.si.VaccineApp.VaccineAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eef3b272-5022-46cd-ba63-184fa4ee605a" name="Default Changelist" comment="" />
+      <created>1610790383726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610790383726</updated>
+      <workItem from="1610790384838" duration="4255000" />
+      <workItem from="1610796544351" duration="5138000" />
+      <workItem from="1610880845265" duration="4551000" />
+      <workItem from="1610886386696" duration="9000" />
+      <workItem from="1610886460915" duration="700000" />
+      <workItem from="1610887567111" duration="7003000" />
+      <workItem from="1610904971845" duration="3619000" />
+      <workItem from="1611000189123" duration="2465000" />
+      <workItem from="1611423964420" duration="954000" />
+      <workItem from="1611425194809" duration="1333000" />
+      <workItem from="1611475638961" duration="1172000" />
+      <workItem from="1611477044901" duration="7482000" />
+      <workItem from="1611938129549" duration="4894000" />
+      <workItem from="1611948130286" duration="1851000" />
+      <workItem from="1611985237502" duration="621000" />
+      <workItem from="1611988283055" duration="1847000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding empty java files for some packages">
+      <created>1610889942012</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610889942012</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updating password">
+      <created>1610905032364</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610905032364</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updating password">
+      <created>1611003457073</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611003457073</updated>
+    </task>
+    <task id="LOCAL-00004" summary="upload Simo's app">
+      <created>1611992744283</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611992744283</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new test">
+      <created>1611993114768</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611993114768</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding empty java files for some packages" />
+    <MESSAGE value="updating password" />
+    <MESSAGE value="upload Simo's app" />
+    <MESSAGE value="new test" />
+    <option name="LAST_COMMIT_MESSAGE" value="new test" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+</project>
