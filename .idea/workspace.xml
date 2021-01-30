@@ -4,30 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eef3b272-5022-46cd-ba63-184fa4ee605a" name="Default Changelist" comment="new test" />
+    <list default="true" id="e246035c-ef6d-43ae-97af-aafb22b3ae24" name="Default Changelist" comment="aaa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Enum" />
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Rebase.Settings">
-    <option name="NEW_BASE" value="origin/master" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1n97Jl6T35QouyJ0n0Vw8shdGez" />
+  <component name="ProjectId" id="1nboSYIu2otJDL9PzsKdALIom90" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -40,13 +29,32 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AplicSimona/MyVaccineApp/pom.xml" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../clone/VaccineApp" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Curs_Java_ScoalaInformalDeIT_WK_Grupa2\AplicSimona\MyVaccineApp\src\main\resources" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration name="VaccineAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="VaccineApp" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.si.VaccineApp.VaccineAppApplication" />
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Covid19Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="thymeleafdemo-employees-crud-security-with-jdbc-authentication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.covid19.Covid19Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -55,64 +63,27 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eef3b272-5022-46cd-ba63-184fa4ee605a" name="Default Changelist" comment="" />
-      <created>1610790383726</created>
+      <changelist id="e246035c-ef6d-43ae-97af-aafb22b3ae24" name="Default Changelist" comment="" />
+      <created>1611668155716</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1610790383726</updated>
-      <workItem from="1610790384838" duration="4255000" />
-      <workItem from="1610796544351" duration="5138000" />
-      <workItem from="1610880845265" duration="4551000" />
-      <workItem from="1610886386696" duration="9000" />
-      <workItem from="1610886460915" duration="700000" />
-      <workItem from="1610887567111" duration="7003000" />
-      <workItem from="1610904971845" duration="3619000" />
-      <workItem from="1611000189123" duration="2465000" />
-      <workItem from="1611423964420" duration="954000" />
-      <workItem from="1611425194809" duration="1333000" />
-      <workItem from="1611475638961" duration="1172000" />
-      <workItem from="1611477044901" duration="7482000" />
-      <workItem from="1611938129549" duration="4894000" />
-      <workItem from="1611948130286" duration="1851000" />
-      <workItem from="1611985237502" duration="621000" />
-      <workItem from="1611988283055" duration="1847000" />
+      <updated>1611668155716</updated>
+      <workItem from="1611668157269" duration="5673000" />
+      <workItem from="1611771559745" duration="171000" />
+      <workItem from="1611771820437" duration="514000" />
+      <workItem from="1611772350849" duration="14804000" />
+      <workItem from="1611843343231" duration="11597000" />
+      <workItem from="1611879940569" duration="20000" />
+      <workItem from="1611909004573" duration="3580000" />
+      <workItem from="1611941480094" duration="88000" />
+      <workItem from="1611941591647" duration="292000" />
+      <workItem from="1611941929604" duration="121000" />
+      <workItem from="1611943406679" duration="647000" />
+      <workItem from="1611945931931" duration="2108000" />
+      <workItem from="1611948153620" duration="3486000" />
+      <workItem from="1611985272823" duration="603000" />
+      <workItem from="1611989912203" duration="2377000" />
     </task>
-    <task id="LOCAL-00001" summary="Adding empty java files for some packages">
-      <created>1610889942012</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1610889942012</updated>
-    </task>
-    <task id="LOCAL-00002" summary="updating password">
-      <created>1610905032364</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1610905032364</updated>
-    </task>
-    <task id="LOCAL-00003" summary="updating password">
-      <created>1611003457073</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1611003457073</updated>
-    </task>
-    <task id="LOCAL-00004" summary="upload Simo's app">
-      <created>1611992744283</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1611992744283</updated>
-    </task>
-    <task id="LOCAL-00005" summary="new test">
-      <created>1611993114768</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1611993114768</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,24 +94,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -148,11 +102,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding empty java files for some packages" />
-    <MESSAGE value="updating password" />
-    <MESSAGE value="upload Simo's app" />
-    <MESSAGE value="new test" />
-    <option name="LAST_COMMIT_MESSAGE" value="new test" />
-    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+    <MESSAGE value="aaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaa" />
   </component>
 </project>

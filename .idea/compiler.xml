@@ -7,10 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="thymeleafdemo-employees-crud-security-with-jdbc-authentication" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="thymeleafdemo-employees-crud-security-with-jdbc-authentication" target="11" />
+      <module name="thymeleafdemo-employees-crud-security-with-jdbc-authentication" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
